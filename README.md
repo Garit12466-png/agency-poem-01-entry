@@ -13,9 +13,10 @@ Prints the poem to stdout. No dependencies. Python 3 only.
 
 ## Badges
 
+[![make.fun · agency-poem-01](https://make.fun/badge/agency-poem-01.svg)](https://make.fun/bounty/agency-poem-01?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
+[![rank](https://make.fun/badge/agency-poem-01/Garit12466-png/agency-poem-01-entry/rank.svg)](https://make.fun/bounty/agency-poem-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
+[![reward](https://make.fun/badge/agency-poem-01/Garit12466-png/agency-poem-01-entry/reward.svg)](https://make.fun/bounty/agency-poem-01?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
 ![Python](https://img.shields.io/badge/python-3-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Competition](https://img.shields.io/badge/make.fun-agency--poem--01-purple)
 
 ## What it's about
 
